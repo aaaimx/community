@@ -1,11 +1,11 @@
 <!-- init organization banner -->
 <p align="center">
-    <img src="https://www.aaaimx.org/img/other/aaaimx-ist.png" width="400" alt="AAAIMX"><br><br>
+    <img src="https://drive.google.com/uc?id=1REoe0nqQ_wV7mvc-YVbcry-ue6ZTtoAC" width="200" alt="AAAIMX"><br><br>
     <a href="https://www.aaaimx.org/" target="_blank">
         <img src="https://img.shields.io/badge/website-AAAI%20Student%20Chapter%20M%C3%A9xico-yellow">
     </a>
-    <a href="https://web.facebook.com/aaaimx/" target="_blank">
-        <img src="https://img.shields.io/badge/follow%20us-%40aaaimx-blue">
+    <a href="https://web.facebook.com/AAAI-MX-Software-Division-109685297309422/" target="_blank">
+        <img src="https://img.shields.io/badge/follow%20us-%40disoftw-blue">
     </a>
     <a href="https://www.paypal.me/aaaimx" target="_blank">
         <img src="https://img.shields.io/badge/donate-support%20us-green">
@@ -69,7 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Future work 🚀
 
 ## Contributors ✒
-- **Raul Novelo** - _Initial work_ - [@RaulNovelo](https://github.com/RaulNovelo)
+- **Raul Novelo** - _Initial work_ - [@rnovec](https://github.com/rnovec)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
