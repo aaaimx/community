@@ -1,8 +1,9 @@
 <!-- init organization banner -->
 <p align="center">
-    <img src="https://drive.google.com/uc?id=1REoe0nqQ_wV7mvc-YVbcry-ue6ZTtoAC" width="200" alt="AAAIMX"><br><br>
-    <a href="https://www.aaaimx.org/" target="_blank">
-        <img src="https://img.shields.io/badge/website-AAAI%20Student%20Chapter%20M%C3%A9xico-yellow">
+    <img src="https://drive.google.com/uc?id=1REoe0nqQ_wV7mvc-YVbcry-ue6ZTtoAC" width="200" alt="AAAIMX">
+    <br><br>
+    <a href="https://join.slack.com/t/aaaimx/shared_invite/zt-czcguels-DfXBa5Y_IoDVrLv2P5pVGQ" target="_blank">
+        <img src="https://img.shields.io/badge/chat-join%20us-red">
     </a>
     <a href="https://web.facebook.com/AAAI-MX-Software-Division-109685297309422/" target="_blank">
         <img src="https://img.shields.io/badge/follow%20us-%40disoftw-blue">
