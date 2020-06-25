@@ -1,6 +1,6 @@
 <!-- init organization banner -->
 <p align="center">
-    <img src="https://drive.google.com/uc?id=1REoe0nqQ_wV7mvc-YVbcry-ue6ZTtoAC" width="200" alt="AAAIMX">
+    <img src="https://www.aaaimx.org/software/logo.png" width="200" alt="AAAIMX">
     <br>
     <a href="https://join.slack.com/t/aaaimx/shared_invite/zt-czcguels-DfXBa5Y_IoDVrLv2P5pVGQ" target="_blank">
         <img src="https://img.shields.io/badge/chat-join%20us-red">
